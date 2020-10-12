@@ -275,6 +275,8 @@ from . import amp
 
 from . import onnx
 
+from . import onnx
+
 # high-level api
 from .hapi import Model
 from .hapi import callbacks
